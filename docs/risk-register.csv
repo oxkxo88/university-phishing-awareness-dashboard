@@ -1,0 +1,8 @@
+
+RiskID,Category,RiskDescription,Likelihood,Impact,RiskOwner,Mitigation,Status
+R001,Data Quality,Incorrect or inconsistent task data produces misleading KPIs,3,4,Project Manager,Use dropdowns and automated validation,Open
+R002,Technical,Excel VBA macro fails because of incorrect worksheet or table names,2,4,Project Manager,Test macros and document workbook structure,Open
+R003,Privacy,Sensitive information is accidentally published in the public repository,2,5,Project Manager,Use synthetic data and review files before publishing,Open
+R004,Schedule,Dashboard development takes longer than planned,3,3,Project Manager,Prioritise essential KPIs and review progress weekly,Open
+R005,Reporting,Power BI measures calculate percentages incorrectly,3,4,Data Analyst,Compare dashboard calculations against verified Excel results,Open
+R006,Adoption,Dashboard users find the reports difficult to interpret,3,3,Project Manager,Use clear labels and test the dashboard with sample users,Open
