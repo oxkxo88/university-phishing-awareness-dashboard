@@ -1,0 +1,10 @@
+Activity,Project Sponsor,Project Manager,Security Lead,Awareness Lead,Communications Lead,Data Analyst
+Define project scope,A,R,C,C,I,C
+Assess awareness needs,I,A,R,C,C,C
+Develop training materials,I,C,C,A,R,C
+Prepare communications,I,C,C,C,A,C
+Deliver awareness programme,I,A,R,R,R,C
+Track project tasks and deadlines,I,A,C,C,C,R
+Validate project data,I,A,C,I,I,R
+Build Power BI dashboard,I,A,C,C,C,R
+Review project outcomes,A,R,C,C,C,R
