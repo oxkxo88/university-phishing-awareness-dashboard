@@ -16,11 +16,14 @@ This folder contains the documentation and synthetic datasets for the University
 
 ## Project Datasets
 
+The synthetic datasets are stored separately in the `data/` folder.
+
 | File | Purpose |
 |---|---|
-| `milestones.csv` | Tracks project milestones, target dates, and success criteria. |
-| `budget.csv` | Records illustrative planned and actual project costs. |
-| `awareness-metrics.csv` | Contains synthetic training and phishing simulation metrics. |
+| `data/project-tasks.csv` | Contains project tasks, deadlines, priorities, statuses, and completion values. |
+| `data/milestones.csv` | Tracks project milestones, target dates, and success criteria. |
+| `data/budget.csv` | Records illustrative planned and actual project costs. |
+| `data/awareness-metrics.csv` | Contains synthetic training and phishing simulation metrics. |
 
 ## Data and Privacy
 
