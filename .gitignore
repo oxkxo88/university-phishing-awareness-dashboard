@@ -1,0 +1,14 @@
+# Excel temporary and lock files
+~$*.xlsx
+~$*.xlsm
+
+# Temporary files
+*.tmp
+*.log
+
+# Power BI backup files
+*.pbix.bak
+
+# Operating system files
+.DS_Store
+Thumbs.db
