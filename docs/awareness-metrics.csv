@@ -1,0 +1,10 @@
+Period,Department,StaffTarget,StaffTrained,PhishingEmailsSent,PhishingEmailsClicked,PhishingEmailsReported
+2026-10,Academic,100,70,100,22,35
+2026-10,Administration,80,64,80,12,38
+2026-10,IT Services,40,36,40,3,28
+2026-11,Academic,100,82,100,15,48
+2026-11,Administration,80,72,80,8,47
+2026-11,IT Services,40,38,40,2,31
+2026-12,Academic,100,90,100,10,55
+2026-12,Administration,80,76,80,5,52
+2026-12,IT Services,40,39,40,1,34
