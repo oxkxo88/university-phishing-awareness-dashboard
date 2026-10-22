@@ -1,0 +1,6 @@
+BudgetID,Category,Description,PlannedCost,ActualCost,Status
+B001,Training,Training material development,300,0,Planned
+B002,Communications,Awareness campaign materials,200,0,Planned
+B003,Technology,Dashboard and reporting tools,150,0,Planned
+B004,Events,Programme launch activities,250,0,Planned
+B005,Contingency,Unexpected project costs,100,0,Planned
