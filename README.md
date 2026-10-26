@@ -2,48 +2,67 @@
 
 ## Project Overview
 
-This project simulates the planning and monitoring of a phishing awareness programme at a fictional university.
+This portfolio project demonstrates how project management, Excel VBA, Power BI and cybersecurity awareness analytics can be combined to plan and monitor a university phishing awareness programme.
 
-It combines cybersecurity awareness, project management, data quality checks, and dashboard reporting to demonstrate how project information can be organised and communicated clearly.
+The project uses **synthetic data** and a fictional university scenario. It does not contain real university staff data or actual institutional performance results.
 
-## Objectives
+## Project Objectives
 
-- Track project tasks, deadlines, priorities, and completion.
-- Use Excel VBA to automate basic data validation.
-- Monitor delivery progress through project performance indicators.
-- Develop a Power BI dashboard for project reporting.
-- Document project requirements, risks, testing, and lessons learned.
+- Track project tasks, deadlines, priorities and completion status.
+- Build Excel-based validation tools using VBA.
+- Analyse staff training coverage and phishing simulation outcomes.
+- Create interactive Power BI dashboards to monitor programme performance.
+- Document project requirements, milestones, risks, budget and testing.
 
 ## Tools and Technologies
 
-- **Microsoft Excel:** Task tracking and project data management.
-- **VBA:** Automated data validation and task counting.
-- **GitHub:** Version control and project documentation.
-- **Power BI:** Planned interactive dashboard and visual reporting.
+- Microsoft Excel
+- VBA (Visual Basic for Applications)
+- Microsoft Power BI
+- DAX (Data Analysis Expressions)
+- CSV
+- GitHub
 
-## Project Scope
+## Dashboard Preview
 
-The fictional programme covers a 12-week period. It will include project tasks, milestones, risks, budget tracking, and aggregated phishing awareness training metrics.
+### Project Overview
 
-All project data will be synthetic and created for demonstration purposes. No real student or staff data will be used.
+![Project Overview Dashboard](docs/images/project-overview.png)
 
-## Planned Dashboard
+### Cybersecurity Awareness Metrics
 
-1. Executive Overview
-2. Project Delivery and Timeline
-3. Cybersecurity Risks and Issues
-4. Awareness Metrics and Budget
+![Awareness Metrics Dashboard](docs/images/awareness-metrics.png)
 
-## Current Progress
+## Key Metrics
 
-- [x] Created an Excel task tracker.
-- [x] Added dropdowns and conditional formatting.
-- [x] Built a project summary and completion KPI.
-- [x] Created VBA macros for task counting and data validation.
-- [ ] Develop the project documentation and supporting datasets.
-- [ ] Build the Power BI dashboard.
-- [ ] Complete testing and project evaluation.
+The synthetic dataset supports analysis of:
 
-## Disclaimer
+- Task completion and overdue tasks
+- Staff training coverage
+- Phishing reporting rate
+- Phishing click rate
+- Department-level training and simulation comparisons
+- Trends across October–December 2026
 
-This is an independent portfolio project using a fictional university scenario. It does not represent an official project or report of any real university.
+The figures shown in the dashboard are illustrative outputs from synthetic data, not verified real-world results.
+
+## Project Documentation
+
+The `docs/` folder contains project planning and supporting documentation, including the project charter, requirements, work breakdown structure, risk register, RACI matrix, milestones, budget and test plan.
+
+The `data/` folder contains synthetic datasets used by the project.
+
+## Learning Outcomes
+
+This project demonstrates practical experience in:
+
+- Project tracking and data validation
+- Basic VBA automation
+- Data modelling and DAX measures
+- Interactive dashboard design
+- Cybersecurity awareness metrics
+- Project documentation and version control
+
+## Limitations
+
+This is a portfolio demonstration using synthetic data. The metrics do not establish the effectiveness of a real phishing awareness programme, and no actual university systems or staff records were used.
