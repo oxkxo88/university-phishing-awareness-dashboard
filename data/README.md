@@ -7,8 +7,6 @@ This folder contains synthetic datasets for the University Phishing Awareness Pr
 | File | Purpose | Main Use |
 |---|---|---|
 | `project-tasks.csv` | Project task details, deadlines, priorities, and progress | Project delivery dashboard |
-| `milestones.csv` | Milestone dates and success criteria | Timeline monitoring |
-| `budget.csv` | Illustrative planned and actual costs | Budget monitoring |
 | `awareness-metrics.csv` | Aggregated training and simulated phishing metrics | Cybersecurity awareness dashboard |
 
 ## Data Quality and Privacy
