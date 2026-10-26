@@ -77,7 +77,37 @@ university-phishing-awareness-dashboard/
 The `docs/` folder contains project planning artefacts, including requirements, milestones, risk management, responsibilities and testing documentation.
 
 The `data/` folder contains synthetic CSV datasets used to build the Excel and Power BI components.
+## Technical Implementation
 
+### Excel and VBA
+- Structured project-task data with task IDs, owners, priorities, due dates, statuses and completion percentages.
+- Applied data validation and conditional formatting to improve data consistency and readability.
+- Developed VBA macros to count project tasks and validate task records.
+- Tested the validation process to confirm that it detects data-entry errors.
+
+### Power BI and DAX
+- Built an interactive project dashboard with task counts, completion rate, overdue-task tracking, charts and a task schedule.
+- Created DAX measures for task completion rate and overdue tasks.
+- Developed a cybersecurity awareness dashboard with training coverage, phishing reporting and phishing click-rate metrics.
+- Added department comparisons, monthly trend charts and a reporting-period slicer to support interactive analysis.
+
+### Illustrative Dashboard Metrics
+
+The synthetic awareness dataset currently produces the following aggregate metrics:
+
+| Metric | Illustrative result |
+|---|---:|
+| Staff training coverage | 86% |
+| Phishing reporting rate | 56% |
+| Phishing click rate | 12% |
+
+These are calculated from synthetic data created for this portfolio project. They are not real university statistics or independently validated measures of programme effectiveness.
+
+### Project Management
+- Defined project requirements, scope, milestones, responsibilities and risks.
+- Organised supporting artefacts and datasets in a GitHub repository.
+- Documented testing activities and captured dashboard screenshots for project presentation.
+  
 ## Learning Outcomes
 
 This project demonstrates practical experience in:
