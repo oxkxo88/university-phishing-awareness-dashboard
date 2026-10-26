@@ -46,11 +46,37 @@ The synthetic dataset supports analysis of:
 
 The figures shown in the dashboard are illustrative outputs from synthetic data, not verified real-world results.
 
+## Repository Structure
+
+```text
+university-phishing-awareness-dashboard/
+├── README.md
+├── .gitignore
+├── docs/
+│   ├── images/
+│   │   ├── project-overview.png
+│   │   └── awareness-metrics.png
+│   ├── project-charter.md
+│   ├── requirements.md
+│   ├── work-breakdown-structure.md
+│   ├── risk-register.csv
+│   ├── raci-matrix.csv
+│   ├── milestones.csv
+│   ├── budget.csv
+│   └── test-plan.md
+└── data/
+    ├── project-tasks.csv
+    ├── awareness-metrics.csv
+    └── README.md
+```
+
+*Note: The tree above illustrates the intended organisation. Adjust individual filenames to match the files actually present in your repository.*
+
 ## Project Documentation
 
-The `docs/` folder contains project planning and supporting documentation, including the project charter, requirements, work breakdown structure, risk register, RACI matrix, milestones, budget and test plan.
+The `docs/` folder contains project planning artefacts, including requirements, milestones, risk management, responsibilities and testing documentation.
 
-The `data/` folder contains synthetic datasets used by the project.
+The `data/` folder contains synthetic CSV datasets used to build the Excel and Power BI components.
 
 ## Learning Outcomes
 
