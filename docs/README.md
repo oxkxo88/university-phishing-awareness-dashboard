@@ -31,12 +31,10 @@ This dashboard presents synthetic cybersecurity awareness metrics, including sta
 
 ## Related Datasets
 
-The synthetic datasets used by the project are stored in the repository's `data/` folder:
+The synthetic datasets used by this project are stored in the repository's `data/` folder:
 
-- `project-tasks.csv` — project tasks, owners, deadlines, priorities and progress.
+- `project-tasks.csv` — project tasks, owners, deadlines, priorities, statuses and completion percentages.
 - `awareness-metrics.csv` — staff training and phishing simulation metrics by department and reporting period.
-- `milestones.csv` — project milestones and planned delivery dates.
-- `budget.csv` — illustrative project budget estimates and allocations.
 
 ## Data Disclaimer
 
