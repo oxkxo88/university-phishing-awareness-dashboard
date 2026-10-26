@@ -1,29 +1,28 @@
-# Project Documentation and Datasets
-
-This folder contains the documentation and synthetic datasets for the University Phishing Awareness Programme Dashboard.
-
 ## Project Documentation
 
-| File | Purpose |
+The `docs/` folder contains project planning and supporting documentation for the university phishing awareness programme.
+
+| Document | Description |
 |---|---|
-| `project-charter.md` | Defines the project objectives, scope, stakeholders, and success criteria. |
-| `requirements.md` | Documents functional and non-functional requirements. |
-| `wbs.md` | Breaks the project into manageable work packages. |
-| `test-plan.md` | Defines planned tests and expected outcomes. |
-| `data-dictionary.md` | Explains task tracker fields and data quality rules. |
+| `project-charter.md` | Defines the project purpose, objectives, scope and expected deliverables. |
+| `requirements.md` | Documents the project requirements and intended functionality. |
+| `work-breakdown-structure.md` | Breaks the project into manageable deliverables and work packages. |
+| `risk-register.csv` | Records project risks and planned responses. |
 | `raci-matrix.csv` | Defines project responsibilities using the RACI framework. |
-| `risk-register.csv` | Records project risks and mitigation measures. |
+| `test-plan.md` | Documents planned validation and testing activities. |
+| `images/project-overview.png` | Screenshot of the project management dashboard. |
+| `images/awareness-metrics.png` | Screenshot of the cybersecurity awareness dashboard. |
 
-## Project Datasets
+The `data/` folder contains the synthetic datasets used for project tracking and Power BI analysis.
 
-The synthetic datasets are stored separately in the `data/` folder.
-
-| File | Purpose |
+| Dataset | Description |
 |---|---|
-| `data/project-tasks.csv` | Contains project tasks, deadlines, priorities, statuses, and completion values. |
-| `data/milestones.csv` | Tracks project milestones, target dates, and success criteria. |
-| `data/budget.csv` | Records illustrative planned and actual project costs. |
-| `data/awareness-metrics.csv` | Contains synthetic training and phishing simulation metrics. |
+| `project-tasks.csv` | Project tasks, owners, due dates, priorities, statuses and completion percentages. |
+| `awareness-metrics.csv` | Synthetic staff training and phishing simulation metrics by department and reporting period. |
+| `milestones.csv` | Project milestone dates and planned delivery checkpoints. |
+| `budget.csv` | Illustrative project budget estimates and allocations. |
+
+All datasets use synthetic data for portfolio demonstration and do not represent actual university staff, finances or cybersecurity performance.
 
 ## Data and Privacy
 
